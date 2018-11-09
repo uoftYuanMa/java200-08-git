@@ -2,5 +2,6 @@ public void run(){
     int a = 0;
     sout("a");
     a;
-    123456
+    123456；
+    2018118
 }
